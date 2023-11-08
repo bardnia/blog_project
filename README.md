@@ -29,7 +29,12 @@
 
 
 # 2. 프로젝트 구조
-<h2>2.1 urls 구조</h2>
+<h2>2.1 마인드맵</h2>
+
+<br>
+
+
+<h2>2.2 urls 구조</h2>
 
 <br>
 
@@ -63,7 +68,7 @@
 
 <br>
 
-<h2>2.2 TREE 구조</h2>
+<h2>2.3 TREE 구조</h2>
 
 <pre>
   
@@ -128,7 +133,7 @@ back_up
 </pre>
 
 
-<h2>2.3 ERD 구조</h2>
+<h2>2.4 ERD 구조</h2>
 
 ![edr구조](https://github.com/bardnia/test/assets/69304793/436f217c-91f2-4bcb-86e6-d187f94594d3)
 
