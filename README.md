@@ -3,7 +3,7 @@
 <h2>목표</h2>
 
 <ul>
-  <li>-blog 만들기</li>
+  <li>blog 만들기</li>
   <li>모놀로그식 구성</li>
   <li>CBV기반 개발</li>
 </ul>
