@@ -31,6 +31,9 @@
 # 2. 프로젝트 구조
 <h2>2.1 마인드맵</h2>
 
+![MindMeister](https://github.com/bardnia/blog_project/assets/69304793/2a32b1f6-d5ca-4611-91a0-48ec9ef107e3)
+
+
 <br>
 
 
