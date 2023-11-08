@@ -1,9 +1,15 @@
 # blog_project
 
 <h2>목표</h2>
--blog 만들기
--모놀로그식 구성
--CBV기반 개발
+
+<ul>
+  <li>-blog 만들기</li>
+  <li>모놀로그식 구성</li>
+  <li>CBV기반 개발</li>
+</ul>
+
+-
+-
 
 <h2>기능</h2>
 <ul>
